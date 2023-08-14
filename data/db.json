@@ -1,0 +1,7 @@
+{
+  "blogs": [
+    { "title": "FIRST", "author": "Sandu", "id": 1 },
+    { "title": "SECOND", "author": "Sandy", "id": 2 },
+    { "title": "THIRD", "author": "Basanta", "id": 3 }
+  ]
+}
