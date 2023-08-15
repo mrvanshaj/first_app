@@ -1,7 +1,28 @@
 {
   "blogs": [
-    { "title": "FIRST", "author": "Sandu", "id": 1 },
-    { "title": "SECOND", "author": "Sandy", "id": 2 },
-    { "title": "THIRD", "author": "Basanta", "id": 3 }
+    {
+      "title": "FIRST",
+      "author": "Sandu",
+      "id": 1,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi inventore quam aliquid aspernatur impedit molestias! Ea est recusandae accusamus, doloremque temporibus deleniti tempore alias asperiores soluta nesciunt cum, rerum, vitae accusantium. Ipsa, minima consectetur?"
+    },
+    {
+      "title": "SECOND",
+      "author": "Sandy",
+      "id": 2,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi inventore quam aliquid aspernatur impedit molestias! Ea est recusandae accusamus, doloremque temporibus deleniti tempore alias asperiores soluta nesciunt cum, rerum, vitae accusantium. Ipsa, minima consectetur?"
+    },
+    {
+      "title": "THIRD",
+      "author": "Basanta",
+      "id": 3,
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi inventore quam aliquid aspernatur impedit molestias! Ea est recusandae accusamus, doloremque temporibus deleniti tempore alias asperiores soluta nesciunt cum, rerum, vitae accusantium. Ipsa, minima consectetur?"
+    },
+    {
+      "title": "FOURTH",
+      "body": "HELLO",
+      "author": "mario",
+      "id": 4
+    }
   ]
 }
