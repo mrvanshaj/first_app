@@ -22,6 +22,7 @@ const Home = () => {
     // }
     return (
         <div className="home">
+            <h2>//Home page</h2>
             {/* <h1>This is BLOG SITE</h1>
             <p>Lorem ipsum dolor sit amet.</p>
             <button onClick={handleClick}>CLICK ME</button>
